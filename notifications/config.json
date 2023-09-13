@@ -2,16 +2,16 @@
   "base": {
     "logo": "",
     "project": "${JOB_BASE_NAME}",
-    "environment": "QA.GURU",
+    "environment": "",
     "comment": "",
     "reportLink": "${BUILD_URL}",
     "language": "en",
-    "allureFolder": "allure-report",
+    "allureFolder": "allure-report/",
     "enableChart": true
   },
   "telegram": {
     "token": "6205439060:AAG8PI5Os4i9W-pV1WPhgyaqP_U58Cu-Z2k",
-    "chat": -1001830066221,
+    "chat": "-1001830066221",
     "replyTo": ""
   }
 }
