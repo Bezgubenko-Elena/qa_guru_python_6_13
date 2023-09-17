@@ -2,7 +2,7 @@
   "base": {
     "logo": "",
     "project": "${JOB_BASE_NAME}",
-    "environment": "",
+    "environment": "prod qa guru",
     "comment": "",
     "reportLink": "${BUILD_URL}",
     "language": "en",
@@ -10,7 +10,7 @@
     "enableChart": true
   },
   "telegram": {
-    "token": "6205439060:AAG8PI5Os4i9W-pV1WPhgyaqP_U58Cu-Z2k",
+    "token": "6422198622:AAFHjRba4ot8ZMiRzzQO4hEWOBdtcgVvtPI",
     "chat": "-1001830066221",
     "replyTo": ""
   }
